@@ -35,7 +35,9 @@ services:
   postgres:
     container_name: postgres
     restart: always
-    image: postgres:13.2
+    build:
+      context: .
+      dockerfile: postgres/Dockerfile
     environment:
       POSTGRES_USER: postgresuser  
       POSTGRES_PASSWORD: postgrespassword
