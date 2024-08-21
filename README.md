@@ -4,7 +4,7 @@ This is a starting point for todo-list app powered with React, Node and Postgres
 
 ## Tech Stack
 
-<img width="684" alt="image" src="https://github.com/user-attachments/assets/0f831213-cd0f-4012-a508-6f08abfb3750">
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/e4324e46-d5ba-4b5f-932c-0f2eb450e07f">
 
 
 
