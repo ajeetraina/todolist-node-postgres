@@ -1,0 +1,8 @@
+{
+  "default":{
+    "PORT": 3000,
+    "POSTGRES_HOST": "postgreshost",
+    "POSTGRES_PASSWORD": "postgrespassword",
+    "POSTGRES_USER": "postgresuser"
+  }
+}
