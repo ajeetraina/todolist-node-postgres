@@ -4,7 +4,8 @@ This is a starting point for todo-list app powered with React, Node and Postgres
 
 ## Tech Stack
 
-<img width="773" alt="image" src="https://github.com/user-attachments/assets/cc2ec3c7-e11f-444d-a9db-b3c57f77fdee">
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/0f831213-cd0f-4012-a508-6f08abfb3750">
+
 
 
 
@@ -12,7 +13,7 @@ This is a starting point for todo-list app powered with React, Node and Postgres
 - Frontend: React
 - Backend: Node.js
 - Database: Postgres
-- Database Admin Interface: PgAdmin
+- Database Admin Interface: Adminer
 
 
 ## Clone the repository
