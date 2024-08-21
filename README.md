@@ -1,32 +1,27 @@
 ## A Basic Todo List App
 
-This is a starting point for todo-list app powered with React, Node and Mongo.
+This is a starting point for todo-list app powered with React, Node and Postgres.
 
 ## Tech Stack
 
-![image](https://github.com/user-attachments/assets/107e89d6-6cbf-4f4f-b969-9e17b9f8b10d)
+<img width="773" alt="image" src="https://github.com/user-attachments/assets/cc2ec3c7-e11f-444d-a9db-b3c57f77fdee">
+
 
 
 
 - Frontend: React
 - Backend: Node.js
-- Database: Mongo DB
-- Database Admin Interface: MongoExpress
+- Database: Postgres
+- Database Admin Interface: PgAdmin
 
 
 ## Clone the repository
 
 ```
-git clone https://github.com/dockersamples/getting-started-todo-app
-cd getting-started-todo-app
+git clone https://github.com/ajeetraina/todolist-node-postgres
+cd todolist-node-postgres
 ```
 
-## Switch to `basic` branch
-
-
-```
-git checkout basic
-```
 
 ## Bringing up the service containers
 
@@ -40,9 +35,5 @@ After the application starts, navigate to `http://localhost:3000` in your web br
 Stop and remove the containers
 ```
 $ docker compose down
-Stopping server   ... done
-Stopping frontend ... done
-Stopping mongo    ... done
-Removing server   ... done
-Removing frontend ... done
-Removing mongo    ... done
+```
+
